@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1081529638094",
+    "firebase_url": "https://stm32senddata-default-rtdb.firebaseio.com",
+    "project_id": "stm32senddata",
+    "storage_bucket": "stm32senddata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081529638094:android:3e2937fd1122d92d16449f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpYRUWMRAtsGrc1pvek1gBfzaCTQiKm14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
