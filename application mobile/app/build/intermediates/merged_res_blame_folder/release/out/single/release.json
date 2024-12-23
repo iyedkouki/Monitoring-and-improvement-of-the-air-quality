@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_name.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_btn_arrow2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_girl.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_rougebecher.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\rougebecher.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_voice_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_passwordreset.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_passwordreset.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_top_backgroundg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\top_backgroundg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_icons_chaud.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\icons_chaud.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_iconstemperaturec.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\iconstemperaturec.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_top_background1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_iconspression96.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\iconspression96.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_email.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_btn_arrow2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_iconsatmospheric78.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\iconsatmospheric78.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_top_background2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_firstpage1.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\firstpage1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_backgroundofsteps.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\backgroundofsteps.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-46:/layout_item_pressure.xml.flat",
+        "source": "com.example.myapplication.app-main-47:/layout/item_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_btn_arrow2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_item_temp1.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\item_temp1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_video_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_voice_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_video_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_top_background2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_video_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_top_backgroundg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\top_backgroundg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_item_day.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\item_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_top_background.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_7.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_temperature_year.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_temperature_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_facebookg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\facebookg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_top_background.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_top_background1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\top_background1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-46:/layout_activity_co2main.xml.flat",
+        "source": "com.example.myapplication.app-main-47:/layout/activity_co2main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_name.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_email.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_video_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_icontemperaturealert.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\icontemperaturealert.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_top_background1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_atmospheric.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\atmospheric.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_girl.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_girl.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_btn_arraw1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_top_background2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_4.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-46:/layout_item_co2.xml.flat",
+        "source": "com.example.myapplication.app-main-47:/layout/item_co2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_mainbackround2.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\mainbackround2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_iconsretornee.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\iconsretornee.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_7.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_3.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_top_backgroundg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\top_backgroundg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_bottom_white.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_5.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_backgroundofsetting.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\backgroundofsetting.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-46:/layout_item_humidity.xml.flat",
+        "source": "com.example.myapplication.app-main-47:/layout/item_humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_6.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_backoundemail.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\backoundemail.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_6.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_btn_arraw1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_humidity_main.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_humidity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_btn_arrow2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_pressure_month.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_pressure_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_voice_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_temperaturemain.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\temperaturemain.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_allclass_year.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_allclass_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_notification.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_3.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_3.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_humidity_year.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_humidity_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_top_backgroundg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\top_backgroundg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_5.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_btn_arraw1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_top_background1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_iconpression.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\iconpression.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_humidity_day.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_humidity_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_top_background2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_iconshumidit.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\iconshumidit.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_voice_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_3.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_co2main.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_co2main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_5.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_video_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_name.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_btn_arraw1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_5.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_flechederetour.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\flechederetour.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_pressure_day.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_pressure_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-46:/layout_activity_pressure_main.xml.flat",
+        "source": "com.example.myapplication.app-main-47:/layout/activity_pressure_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_5.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_voice_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_email.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_password.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_7.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_girl.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_password.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_bacrounliner.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\bacrounliner.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_googleg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\googleg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_buttonselect.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\buttonselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_temperature_main.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_temperature_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_password.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_top_background1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_top_background2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_icons8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\icons8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_6.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_item_allclass.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\item_allclass.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_btn_arrow2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_temperature_day.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_temperature_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_bacgriund2.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\bacgriund2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_search_icon.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_5.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_btn_arrow2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-46:/layout_item_temp1.xml.flat",
+        "source": "com.example.myapplication.app-main-47:/layout/item_temp1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_girl.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_item_co2.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\item_co2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_co2_year.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_co2_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_girl.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_video_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_email.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_top_background2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_co.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\co.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_notification.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_email.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_ch4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\ch4.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_pressure_year.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_pressure_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_7.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_4.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_co2_day.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_co2_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_temperature_month.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_temperature_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_name.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_item_humidity.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\item_humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_7.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_top_background.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_password.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_buttonday.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\buttonday.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_firstpage.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\firstpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_name.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_name.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_7.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_item_pressure.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\item_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_ic_6.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_btn_arraw1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_email.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_backroundbuttongreen.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\backroundbuttongreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_6.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_btn_arraw1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_top_background.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_appicon.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\appicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_pressure_main.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_pressure_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_ic_3.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_8.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_buttonbackgroungreen.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\buttonbackgroungreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_ic_1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_voice_call.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_humidity_month.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_humidity_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxxhdpi_top_backgroundg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxxhdpi\\top_backgroundg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-mdpi_top_backgroundg.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-mdpi\\top_backgroundg.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\layout_activity_co2_month.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\layout\\activity_co2_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_top_background1.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_password.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable_newbackground.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable\\newbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-hdpi_ic_3.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-hdpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-ldpi_ic_2.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-ldpi\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_ic_6.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-46:\\drawable-xxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-47:\\drawable-xxhdpi\\bottom_white.png"
+    }
+]
