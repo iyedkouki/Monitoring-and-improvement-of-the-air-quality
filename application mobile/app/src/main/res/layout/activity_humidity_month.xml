@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbackround2"
+    tools:context=".Humidity_day">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="16dp"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+
+        >
+        <ImageView
+            android:id="@+id/returne_"
+            android:layout_width="88dp"
+            android:layout_height="55dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/iconsretornee"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Humidity month Analytic"
+            android:textSize="25dp"
+            android:layout_marginStart="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"
+
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:padding="10dp"
+
+            android:background="@drawable/buttonday"
+            android:text="   Day   "
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/buttonm"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text=" Month "
+            android:background="@drawable/buttonselect"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:elevation="4dp" />
+
+        <TextView
+            android:id="@+id/buttony"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:background="@drawable/buttonday"
+
+            android:text="   Year  "
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:elevation="4dp" />
+    </LinearLayout>
+
+
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lineChart"
+        android:layout_width="356dp"
+        android:layout_height="294dp"
+        android:background="@drawable/bacrounliner"
+        android:layout_gravity="center"
+        app:cardBackgroundColor="#ffffff"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="366dp"
+        android:layout_height="390dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp" />
+
+
+
+</LinearLayout>

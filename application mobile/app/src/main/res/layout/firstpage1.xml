@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/firstpage"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="217dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="216dp"
+        android:gravity="center"
+        android:text="Air Quality"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="24dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="97dp"
+            android:layout_marginEnd="32dp"
+            android:background="#ffffff"
+            android:src="@drawable/iconpression" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:layout_marginEnd="30dp"
+            android:src="@drawable/iconstemperaturec" />
+
+        <ImageView
+            android:id="@+id/imageView66"
+            android:layout_width="53dp"
+            android:layout_height="49dp"
+            android:layout_marginEnd="97dp"
+            android:background="#ffffff"
+            android:src="@drawable/iconshumidit" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="280dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="Optimize Your Air with "
+        android:textColor="#E8E8E8"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="80dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="24dp"
+        android:gravity="center"
+        android:text="US"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+</LinearLayout>

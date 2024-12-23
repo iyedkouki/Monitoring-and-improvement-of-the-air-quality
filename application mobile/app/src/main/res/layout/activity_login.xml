@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/mainbackround2">
+    <!-- Welcome Text
+    android:background="#F5F5DC">-->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="863dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+
+            android:orientation="vertical">
+
+            <!-- Welcome Text -->
+
+            <!-- Email Input -->
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="Image description"
+                app:layout_constraintBottom_toTopOf="@+id/textView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/top_background2" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="317dp"
+
+                android:layout_height="110dp"
+                android:layout_marginEnd="48dp"
+                android:text="Welcome\nBack"
+                android:textColor="#EA6D35"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                android:translationX="30dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="275dp"
+                android:layout_height="wrap_content"
+                android:text="Email"
+                android:textColor="#0C0C0C"
+
+                android:layout_marginStart="40dp"
+                android:layout_gravity="left"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="343dp"
+                android:textColor="#0C0C0C"
+                android:textColorHint="#535252"
+                android:padding="14dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/backoundemail"
+                android:ems="10"
+                android:hint="Enter Your Email"
+                android:inputType="textEmailAddress" />
+
+            <TextView
+                android:layout_width="275dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="40dp"
+                android:layout_gravity="left"
+                android:text="Password"
+                android:textColor="#0C0C0C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="343dp"
+                android:layout_height="50dp"
+                android:textColorHint="#535252"
+                android:layout_marginTop="12dp"
+                android:textColor="#0C0C0C"
+                android:padding="14dp"
+                android:background="@drawable/backoundemail"
+                android:ems="10"
+                android:inputType="textPassword"
+
+                android:hint="Enter Your Password"
+                />
+
+            <!-- Forgot Password Text -->
+            <TextView
+                android:id="@+id/forgot_password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginTop="8dp"
+                android:text="Forgot Password?"
+                android:textColor="#FB0352"
+                android:textSize="14sp" />
+
+            <!-- Login Button -->
+            <Button
+                android:id="@+id/login"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="#EA6D35"
+                android:padding="12dp"
+                android:text="Login"
+                android:textSize="20sp"
+                android:textColor="#FFFFFF" />
+
+            <!-- Divider Text -->
+
+            <!-- Google Login Button -->
+
+            <!-- Register Text -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/no_account"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Don't have an account?"
+                    android:textColor="#38688C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/register"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:text="Register"
+                    android:textColor="#FF003C"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

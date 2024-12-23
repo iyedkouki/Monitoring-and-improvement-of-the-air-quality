@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundofsetting"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".Setting">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:layout_marginTop="43dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textgeneral"
+            android:layout_width="132dp"
+            android:layout_height="53dp"
+            android:layout_marginStart="16dp"
+            android:text="General"
+            android:textColor="#FF0172B2"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textsetting"
+            android:layout_width="132dp"
+            android:layout_height="53dp"
+            android:layout_marginStart="90dp"
+            android:text="Setting"
+            android:textColor="#131313"
+
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="20dp">
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="175dp"
+            android:outlineAmbientShadowColor="@color/black"
+            android:outlineSpotShadowColor="@color/black"
+            android:src="@drawable/flechederetour"
+            android:scaleType="centerCrop" />
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="62dp"
+        android:layout_marginStart="16dp"
+        android:text="If you want to complain about a problem"
+        android:textColor="#000000"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="+216 22 018 161"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/phoneTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Call Phone"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="50dp"
+        android:padding="16dp"
+        android:background="@drawable/buttonbackgroungreen"
+        android:clickable="true"
+        android:focusable="true" />
+    </FrameLayout>
+
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="74dp"
+        android:backgroundTint="#2B727A"
+        android:padding="12dp"
+        android:text="Logout"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="20dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:outlineAmbientShadowColor="@color/black"
+        android:outlineSpotShadowColor="@color/black"
+        android:src="@drawable/backgroundofsteps"
+        android:scaleType="centerCrop" />
+
+    <TextView
+
+        android:layout_width="378dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="5dp"
+        android:text="This steps showing how to keep the \napplication active:\n"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+      />
+    <TextView
+
+        android:layout_marginTop="70dp"
+        android:layout_width="378dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="Step 1: Open Settings\nStep 2: Navigate to Battery\nStep 3: Select 'Battery Optimization'\nStep 4: Choose 'Don’t Optimize'"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="normal"
+   />
+    </FrameLayout>
+
+</LinearLayout>
