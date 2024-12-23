@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardBackgroundColor="#ffffff"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/cureenttime"
+            android:layout_width="40dp"  android:layout_height="40dp"
+            android:textSize="20sp"
+            android:text="time"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#040404"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="60dp"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/cmax"
+            android:layout_width="48dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#222121"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/cmin"
+            android:layout_width="49dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#3B6F93"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="120dp"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/cma"
+            android:layout_width="48dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#222121"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/cmi"
+            android:layout_width="49dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#1A5E8E"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
